@@ -1,0 +1,17 @@
+* {
+  background-color: bisque;
+}
+
+h1 {
+  font-size: 38px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+img {
+  border: 3px solid rgb(43, 42, 45);
+}
+
+ul {
+  font-weight: bold;
+}
